@@ -14,7 +14,7 @@
                           
 Supported Games : 
 [1] Knife Ability Test - (621129760)
-[2] Pistol 1v1 Classic - (4894544370) 
+[2] Pistol 1v1 Classic - (REMOVED) 
 [3] Rage Runner - (6073366803)
 [4] Happy Runner - (6242296404)
 [5] Speed Run 4 - (183364845)
